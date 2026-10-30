@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /uploads/
+Allow: /assets/
+
+Sitemap: https://masaraddineurocare.com/sitemap.xml
